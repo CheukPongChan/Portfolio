@@ -3236,7 +3236,7 @@ input, select, textarea {
 			}
 
 		.wrapper > .title {
-			padding: 2em 2em 1em 2em ;
+			padding: 2em 2em 1em 3em ;
 			max-width: 100%;
 			width: 75em;
 		}
@@ -3244,7 +3244,7 @@ input, select, textarea {
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .title {
-					padding: 2em 2em 1em 2em ;
+					padding: 2em 2em 1em 3em ;
 				}
 
 			}
@@ -3260,7 +3260,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper > .title {
-					padding: 2em 2em 1em 2em ;
+					padding: 2em 2em 1em 3em ;
 				}
 
 			}
