@@ -3204,7 +3204,7 @@ input, select, textarea {
 	.wrapper {
 		position: relative;
 	}
-		.wrapper > iframe {
+		.wrapper > .youtube {
 			width: 100%; 
 			height:unset;
 			aspect-ratio: 16 / 9;
