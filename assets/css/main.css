@@ -3258,8 +3258,8 @@ input, select, textarea {
 				width: 70%;
 				height: auto;
 				display: block;
-				margin-bottom: 2em;
 				margin: 0 auto;
+				margin-bottom: 2em;
 			}
 
 		.wrapper > .title {
