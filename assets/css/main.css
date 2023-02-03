@@ -3256,7 +3256,7 @@ input, select, textarea {
 			
 			.wrapper > .inner > .gcontainer {
 				position: relative;
-				width: 50%;
+				width: 100%;
 				overflow: hidden;
 				padding-top: 56.25%;
 				margin-bottom: 2em;
