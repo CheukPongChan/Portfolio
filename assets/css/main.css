@@ -3255,9 +3255,11 @@ input, select, textarea {
 			}
 
 			.wrapper > .inner > .gif{
-				width: 50%;
+				width: 70%;
 				height: auto;
-				justify-content: center;
+				display: block;
+				margin-bottom: 2em;
+				margin: 0 auto;
 			}
 
 		.wrapper > .title {
