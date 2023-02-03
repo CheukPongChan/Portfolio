@@ -3240,6 +3240,7 @@ input, select, textarea {
 				width: 100%;
 				overflow: hidden;
 				padding-top: 56.25%;
+				margin-bottom: 2em;
 			}
 
 			.wrapper > .inner > .vcontainer > .youtube{
