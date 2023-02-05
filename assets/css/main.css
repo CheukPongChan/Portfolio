@@ -2015,7 +2015,6 @@ input, select, textarea {
 				transform: scale(1);
 				position: absolute;
 				left: 3em;
-				top: 0em;
 				opacity: 1;
 			}
 
@@ -2193,7 +2192,6 @@ input, select, textarea {
 
 				.features section .icon {
 					left: 1.5em;
-					top: 0em;
 				}
 
 		}
